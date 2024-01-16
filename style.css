@@ -1,0 +1,38 @@
+.fa-facebook{
+
+font-size: 60px;
+color: rgb(0, 26, 255);
+}
+
+.box-1{
+border: 3px solid red;
+height: 250px;
+width: 400px;
+text-align: center;
+margin: 5px;
+border-radius: 10px;
+
+
+
+}
+
+.card{
+border: 5px solid black;
+height: 400px;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.first{
+display: flex;
+
+}
+
+.box-6{
+    
+    text-align: center;
+margin-right: 200px;
+}
