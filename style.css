@@ -5,14 +5,14 @@ color: rgb(0, 26, 255);
 }
 
 .box-1{
-border: 3px solid red;
+border: 3px solid rgba(13, 117, 39, 0.644);
 height: 250px;
 width: 400px;
 text-align: center;
 margin: 5px;
 border-radius: 10px;
-
-
+color: #8a2be2;
+padding: 10px;
 
 }
 
@@ -34,5 +34,30 @@ display: flex;
 .box-6{
     
     text-align: center;
-margin-right: 200px;
+margin-right: 600px;
+padding: 150px;
+ align-items: center;
+
+
+}
+
+.box-7{
+
+    padding: 150px;
+
+
+
+}
+
+h1{
+    background-color: #3e4f73;
+text-align: center;
+padding: 10px;
+border-radius: 50px;
+}
+
+h2{
+
+    text-align: center;
+
 }
