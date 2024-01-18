@@ -61,3 +61,146 @@ h2{
     text-align: center;
 
 }
+
+.box-a{
+border: 3px solid rgba(13, 117, 39, 0.644);
+height: 250px;
+width: 400px;
+margin: 5px;
+}
+
+.card-2{
+ grid-template-columns: auto auto auto;
+border: 3px solid royalblue;
+display: grid;
+
+
+}
+
+.sec {
+
+display: flex;
+
+
+
+
+
+
+
+}
+
+
+h4 {
+font-size: 20px;
+background-color: aqua;
+padding: 5px;
+border-radius: 3px;
+
+}
+
+p{
+color: aqua;
+
+}
+
+.box-b{
+
+justify-content: space-around;
+
+}
+
+.new{
+    display: flex;
+justify-content: space-around;
+
+}
+
+
+.box-2 h3{
+background-color: #FAA41A;
+padding: 20px;
+border-radius: 3px;
+text-align: center;
+}
+
+.new p{
+color: dimgray;
+font-size: 25px;
+}
+
+.fe{
+
+    display: flex;
+justify-content: space-around;
+
+}
+
+.fe h1{
+background-color: #FAA41A;
+color: aliceblue;
+border-radius: 0px;
+border-radius: 3px;
+padding: 20px;
+
+
+
+}
+
+.fe ul li{
+
+    font-size: 20px;
+padding: 10px;
+}
+
+.newsec h1{
+background-color: #FAA41A;
+
+border-radius: 3px;
+padding: 10px;
+color: aliceblue;
+font-size: 30px;
+
+}
+
+.pro{
+
+    display: flex;
+justify-content: space-around;
+
+
+
+}
+
+.box-n ul li{
+    list-style: none;
+
+
+}
+
+.box-n ul li i{
+    list-style: none;
+color: #FAA41A;
+
+}
+.box-c{
+font-size: 20px;
+padding: 25px;
+
+}
+
+.newpro h1{
+background-color: #FAA41A;
+border-radius: 0px;
+border-radius: 3px;
+color: aliceblue;
+font-size: 30px;
+
+}
+
+.newpro ul li{
+
+font-size: 25px;
+padding: 10px;
+text-align: center;
+
+}
