@@ -1,0 +1,87 @@
+.table{
+    
+    
+    text-align: center;
+
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.table-design{
+    width: 800px;
+    background-color: blue;
+    color: white;
+    padding: 30px 3px 3px 3px;
+    font-size: 18px;
+    
+    
+    
+
+
+
+
+}
+.table-container td{
+    background-color: grey;
+    padding: 10px;
+}
+ .table-container td.even{
+    background-color: rgb(216, 110, 110);
+padding: 10px;
+}
+.link{
+    background-color: aqua;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 80px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    border: 3px solid red;
+    border-radius: 4px;
+}
+.table-con{
+    display: flex;
+    justify-content: center;
+    
+    color: white;
+    
+}
+
+.table-det{
+    background-color: blue;
+    padding: 30px 7px 7px 7px;
+    border: 3px solid red;
+    border-radius: 4px;
+    font-size: 18px;
+    width: 800px;
+
+}
+.table-det td{
+    background-color: grey;
+}
+.table-det .ev{
+    background-color: rgb(207, 98, 98);
+}
+.li{
+    background-color: aqua;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 3px;
+    text-align: center;
+    align-items: center;
+}

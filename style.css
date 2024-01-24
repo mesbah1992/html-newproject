@@ -159,6 +159,7 @@ border-radius: 3px;
 padding: 10px;
 color: aliceblue;
 font-size: 30px;
+margin: 20px;
 
 }
 
@@ -197,10 +198,82 @@ font-size: 30px;
 
 }
 
-.newpro ul li{
+.newpro ul {
 
 font-size: 25px;
 padding: 10px;
-text-align: center;
 
+
+}
+.velu{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+    
+
+.box-a{
+
+    border: 0px;
+    text-align: center;
+   
+
+}
+
+.pri {
+    display: flex;
+    justify-content: space-around;
+
+}
+.pri h1{
+
+    background-color: aliceblue;
+    border: 10px solid #FAA41A;
+    border-radius: 0px;
+    padding: 20px;border-radius: 3px;
+
+}
+.number{
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.box-d{
+    background-color: #FAA41A;
+    padding: 20px;
+    border-radius: 3px;
+
+
+}
+
+.hed h1{
+    background-color: white;
+    color: #FAA41A;
+    font-size: 35px;
+
+
+
+}
+
+.teach{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-e h1{
+background-color: white;
+color: #FAA41A;
+font-size: 30px;
+
+
+
+}
+
+.box-e ul li{
+    list-style: none;
+    padding: 5px;
+font-size: 25px;
 }
